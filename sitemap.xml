@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://nightswatch.games/</loc>
+    </url>
+    <url>
+        <loc>http://nightswatch.games/about/</loc>
+    </url>
+    <url>
+        <loc>http://nightswatch.games/blog/</loc>
+    </url>
+    <url>
+        <loc>http://nightswatch.games/blog/first/</loc>
+        <lastmod>2019-11-27</lastmod>
+    </url>
+    <url>
+        <loc>http://nightswatch.games/blog/second/</loc>
+        <lastmod>2019-11-28</lastmod>
+    </url>
+    <url>
+        <loc>http://nightswatch.games/games/</loc>
+    </url>
+    <url>
+        <loc>http://nightswatch.games/games/jump-jump/</loc>
+    </url>
+    <url>
+        <loc>http://nightswatch.games/games/rubiks-cube/</loc>
+    </url>
+    <url>
+        <loc>http://nightswatch.games/games/tetris/</loc>
+    </url>
+</urlset>
